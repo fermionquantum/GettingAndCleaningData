@@ -4,7 +4,7 @@ The data linked to from the course website represent data collected from the acc
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-The data for the project were obtained:
+The data for the project was obtained:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
