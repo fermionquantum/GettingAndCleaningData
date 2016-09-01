@@ -1,4 +1,4 @@
-#necessary library to calculate the final mean
+#necessary library to calculate the final mean and melt function
 library(reshape2)
 
 # Setting the path to the current directory 
@@ -60,6 +60,3 @@ DataTrainTest <- dcast(DataTrainTest, subject + activity ~ variable, mean)
 
 # Tidy data created and nomead as Average.txt
 write.table(DataTrainTest, file = "./Average.txt", sep = " ", row.names = FALSE)
-
-
-################################################################################
