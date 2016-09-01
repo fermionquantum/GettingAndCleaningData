@@ -1,4 +1,4 @@
-# Description of Variables in run_anlisys.R:
+# Description of Variables in run_analysis.R:
 
 * trainDt -> merged data from train
 * train_X -> data from x_train.txt
